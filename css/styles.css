@@ -10932,11 +10932,13 @@ p {
   display: block;
   font-size: 1rem;
   font-weight: 800;
+  color: #000;
 }
 .section-heading .section-heading-lower {
   display: block;
   font-size: 3rem;
   font-weight: 100;
+  color: #000;
 }
 
 .bg-faded {
